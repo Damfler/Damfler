@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/дэм" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="дэм" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/damfler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/damfler/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/dima_gashuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dima_gashuk" height="30" width="40" /></a>
+<a href="https://dev.to/damfler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="damfler" height="30" width="40" /></a>
+<a href="https://instagram.com/damfler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damfler" height="30" width="40" /></a>
+<a href="https://www.behance.net/dima_gashuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dima_gashuk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
