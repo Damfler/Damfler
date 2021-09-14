@@ -25,5 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damfler&show_icons=true&locale=en&theme=dark" alt="damfler" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=damfler)](https://github.com/anuraghazra/github-readme-stats)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=damfler" alt="damfler" /></p>
