@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damfler&show_icons=true&locale=en&theme=dark" alt="damfler" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=damfler" alt="damfler" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=damfler" alt="damfler" /></p> -->
