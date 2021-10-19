@@ -116,7 +116,7 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
- - <a href='https://dev.to/damfler/first-post-2gk' style='color: white; font-weight: bold;'>🚀 First post</a><!-- BLOG-POST-LIST:END -->
+ - [🔥 First post](https://dev.to/damfler/first-post-2gk)<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
