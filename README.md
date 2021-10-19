@@ -115,8 +115,8 @@
 
 ## Recent Blog Posts  
 
-<!-- BLOG-POST-LIST:START -->[
- - First post 🔥<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [First post 🔥<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
