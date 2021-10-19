@@ -116,6 +116,7 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [First post](https://dev.to/damfler/first-post-2gk)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
