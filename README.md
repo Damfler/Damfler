@@ -107,6 +107,12 @@
 <br/>  
 
 
+## Language Stats 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Damfler&theme=dark" align="center" /></div>  
+
+<br/>  
+
+
 ## Recent Blog Posts  
   
 
