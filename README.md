@@ -78,17 +78,23 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Damfler" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/damfler" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/damfler" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/dima_gashuk" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/behance-%23000000.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
+<a href="https://vk.com/dima_gashuk" target="_blank">
+<img src=https://img.shields.io/badge/vkontakte-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UCWIbaZ6Nt-pRcRie3g8SqZw" target="_blank">
+<img src=https://img.shields.io/badge/YouTUbe-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
