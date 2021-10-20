@@ -129,7 +129,11 @@
 ## Recent YouTube Videos
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+ - [🔥 Планы на канал / ближайшие видео / что с ним будет / ауди-видео](https://www.youtube.com/watch?v=BKK6ux1IkaA)
+ - [🚀 Blockbench - Урок 6. Плагины](https://www.youtube.com/watch?v=3hlAkIpFd2s)
+ - [💯 SPEED MODELING | BFG 9000 | BLOCKBENCH](https://www.youtube.com/watch?v=Ys9s82MwAno)
+ - [🔥 Blockbench - Урок 5. Прозрачные текстуры](https://www.youtube.com/watch?v=QlO4cK6Foqk)
+ - [💯 Blockbench - Урок 4. Угол и привязка](https://www.youtube.com/watch?v=GlxsXlPC8Mc)<!-- YOUTUBE:END -->
 
 <br/>  
 
