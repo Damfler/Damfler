@@ -108,7 +108,7 @@
 
 
 ## Language Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Damfler&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Damfler&theme=dark&hide_border" align="center" /></div>  
 
 <br/>  
 
