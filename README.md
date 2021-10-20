@@ -116,7 +116,8 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
- - [🔥 First post](https://dev.to/damfler/first-post-2gk)<!-- BLOG-POST-LIST:END -->
+ - [🔥 Getting to know me](https://dev.to/damfler/getting-to-know-me-1mh6)
+ - [🚀 First post](https://dev.to/damfler/first-post-2gk)<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
