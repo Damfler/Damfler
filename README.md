@@ -120,8 +120,7 @@
 
 <!-- BLOG-POST-LIST:START -->
  - [🔥 Getting to know me](https://dev.to/damfler/getting-to-know-me-1mh6)
- - [🚀 First post](https://dev.to/damfler/first-post-2gk)
-<!-- BLOG-POST-LIST:END -->
+ - [🚀 First post](https://dev.to/damfler/first-post-2gk)<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
