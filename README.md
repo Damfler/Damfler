@@ -116,6 +116,14 @@
 <br/>  
 
 
+## WakaTime stats 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>  
+
+
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
