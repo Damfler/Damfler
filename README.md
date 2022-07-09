@@ -4,7 +4,7 @@
 ### <div align="center">I'm Dima, a full-stack Web developer 🚀</div>  
   
 
-- 🌱 I’m currently learning React, React Native  
+- 🌱 I’m currently learning Flutter  
   
 
 - 📫 How to reach me gashuk2002@yandex.ru  
