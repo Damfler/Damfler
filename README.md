@@ -121,7 +121,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **🐱 My GitHub Data** 
 
@@ -196,7 +196,7 @@ Blade                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Damfler/Damfler/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 20:00:41 UTC
+ Last Updated on 10/07/2022 18:49:01 UTC
 <!--END_SECTION:waka-->
 
 <br/>  
