@@ -119,7 +119,7 @@
 ## WakaTime stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
@@ -199,7 +199,7 @@ Blade                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Damfler/Damfler/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/07/2022 18:46:16 UTC
+ Last Updated on 17/07/2022 18:47:05 UTC
 <!--END_SECTION:waka-->
 
 <br/>  
