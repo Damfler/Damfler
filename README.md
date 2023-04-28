@@ -1,175 +1,43 @@
-# **<div align="center">Hi 👋, I'm Damfler</div>**  
-  
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-### <div align="center">I'm Dima, a full-stack Web developer 🚀</div>  
-  
-
-- 🌱 I’m currently learning Flutter  
-  
-
-- 📫 How to reach me gashuk2002@yandex.ru  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I'm Russian  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Other  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Damfler" target="_blank">
-<img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/damfler" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/damfler" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/dima_gashuk" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23000000.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-<a href="https://vk.com/dima_gashuk" target="_blank">
-<img src=https://img.shields.io/badge/vkontakte-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCWIbaZ6Nt-pRcRie3g8SqZw" target="_blank">
-<img src=https://img.shields.io/badge/YouTUbe-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a> 
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Damfler&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
-
-<br/>  
-
-
-## Language Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Damfler&theme=dark&hide_border" align="center" /></div>
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damfler&langs_count=8r&theme=dark&hide_border" align="center" /></div>
-
-
-<br/>  
-
-
-## Recent Blog Posts  
-
-<!-- BLOG-POST-LIST:START -->
- - [🔥 Vk api](https://dev.to/damfler/vk-api-2ieh)
- - [🚀 Cool minecraft plugin! ITEMSADDER](https://dev.to/damfler/cool-minecraft-plugin-itemsadder-2cji)
- - [💯 Getting to know me](https://dev.to/damfler/getting-to-know-me-1mh6)
- - [🔥 First post](https://dev.to/damfler/first-post-2gk)<!-- BLOG-POST-LIST:END -->
-
-<br/>  
-
-
-## Recent YouTube Videos
-
-<!-- YOUTUBE:START -->
- - [🔥 Планы на канал / ближайшие видео / что с ним будет / ауди-видео](https://www.youtube.com/watch?v=BKK6ux1IkaA)
- - [🚀 Blockbench - Урок 6. Плагины](https://www.youtube.com/watch?v=3hlAkIpFd2s)
- - [💯 SPEED MODELING | BFG 9000 | BLOCKBENCH](https://www.youtube.com/watch?v=Ys9s82MwAno)
- - [🔥 Blockbench - Урок 5. Прозрачные текстуры](https://www.youtube.com/watch?v=QlO4cK6Foqk)
- - [💯 Blockbench - Урок 4. Угол и привязка](https://www.youtube.com/watch?v=GlxsXlPC8Mc)<!-- YOUTUBE:END -->
-
-<br/>  
-
-
-## What am I listening to
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kzqhx32jsga2wljzdd672hqxf4&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-## Other
+###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Damfler&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=damfler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damfler&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br/>  
+###
 
-<div align="center">
-            <a href="https://paypal.me/damfler" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/damfler" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.patreon.com/damfler" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Patreon-f96854.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/damfler/damfler/output/snake.svg" alt="Snake animation" />
+
+###
